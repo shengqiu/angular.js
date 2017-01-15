@@ -82,7 +82,7 @@ module.exports = function(grunt) {
     connect: {
       devserver: {
         options: {
-          port: 8000,
+          port: 4000,
           hostname: '0.0.0.0',
           base: '.',
           keepalive: true,
